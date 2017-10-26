@@ -31,8 +31,5 @@ var Player = {
 // T2 atoms
 
 	CH4: 0,
-	H20: 0,
-	NH3: 0,
-	CO2: 0, 
-
+	H20: 0
 }
